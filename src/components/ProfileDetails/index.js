@@ -17,7 +17,7 @@ class ProfileCard extends Component {
   }
 
   componentDidMount() {
-    this.getProfile()
+    this.getprofile()
   }
 
   getprofile = async () => {
